@@ -40,7 +40,8 @@
 .headerItems {
     display: flex;
     color: #a1a5b0;
-    gap: 10px;
+    font-weight: 600;
+    gap: 20px;
 }
 
 .headerActions {
@@ -68,4 +69,5 @@
     padding: 15px 40px;
     border-radius: 50px;
     color: black;
+    font-weight: 600;
 }
